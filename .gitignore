@@ -1,0 +1,11 @@
+.env
+*.db
+*.sqlite
+node_modules/
+.venv*/
+__pycache__/
+*.key
+*.pem
+credentials*
+crm/
+drafts-send-results-2026-10-02.json
